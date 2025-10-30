@@ -1,0 +1,32 @@
+2025-10-30 11:23:18 [main] INFO  - === SUITE STARTED: VOIS Suite ===
+2025-10-30 11:23:22 [main] INFO  - === TEST CLASS STARTED: GUIs.AmazonTests ===
+2025-10-30 11:23:22 [main] INFO  - >>> STARTING Test Method: GUIs.AmazonTests.testScenario1
+2025-10-30 11:23:29 [main] INFO  - >>> PASSED Test Method: GUIs.AmazonTests.testScenario1
+2025-10-30 11:23:32 [main] INFO  - >>> STARTING Test Method: GUIs.AmazonTests.testScenario1_DataDriven
+2025-10-30 11:23:41 [main] INFO  - >>> PASSED Test Method: GUIs.AmazonTests.testScenario1_DataDriven
+2025-10-30 11:23:44 [main] INFO  - >>> STARTING Test Method: GUIs.AmazonTests.testScenario1_DataDriven
+2025-10-30 11:23:51 [main] INFO  - >>> PASSED Test Method: GUIs.AmazonTests.testScenario1_DataDriven
+2025-10-30 11:23:54 [main] INFO  - >>> STARTING Test Method: GUIs.AmazonTests.testScenario1_DataDriven
+2025-10-30 11:24:03 [main] INFO  - >>> PASSED Test Method: GUIs.AmazonTests.testScenario1_DataDriven
+2025-10-30 11:24:06 [main] INFO  - >>> STARTING Test Method: GUIs.AmazonTests.testScenario2
+2025-10-30 11:24:26 [main] INFO  - >>> PASSED Test Method: GUIs.AmazonTests.testScenario2
+2025-10-30 11:24:35 [main] INFO  - === TEST CLASS FINISHED: GUIs.AmazonTests ===
+2025-10-30 11:24:35 [main] INFO  - === TEST CLASS STARTED: GUIs.KsrtcTests ===
+2025-10-30 11:24:35 [main] INFO  - >>> STARTING Test Method: GUIs.KsrtcTests.testScenario1
+2025-10-30 11:24:52 [main] INFO  - >>> PASSED Test Method: GUIs.KsrtcTests.testScenario1
+2025-10-30 11:24:53 [main] INFO  - === TEST CLASS FINISHED: GUIs.KsrtcTests ===
+2025-10-30 11:24:53 [main] INFO  - === TEST CLASS STARTED: APIs.JsonApiTests ===
+2025-10-30 11:24:53 [main] INFO  - >>> STARTING Test Method: APIs.JsonApiTests.getRandomPostComments
+2025-10-30 11:24:57 [main] INFO  - >>> PASSED Test Method: APIs.JsonApiTests.getRandomPostComments
+2025-10-30 11:24:57 [main] INFO  - >>> STARTING Test Method: APIs.JsonApiTests.printIncompleteTodos
+2025-10-30 11:24:58 [main] INFO  - >>> PASSED Test Method: APIs.JsonApiTests.printIncompleteTodos
+2025-10-30 11:24:58 [main] INFO  - >>> STARTING Test Method: APIs.JsonApiTests.verifyAlbumTitleLength
+2025-10-30 11:24:59 [main] INFO  - >>> PASSED Test Method: APIs.JsonApiTests.verifyAlbumTitleLength
+2025-10-30 11:24:59 [main] INFO  - >>> STARTING Test Method: APIs.JsonApiTests.createPostForUser
+2025-10-30 11:24:59 [main] INFO  - >>> PASSED Test Method: APIs.JsonApiTests.createPostForUser
+2025-10-30 11:24:59 [main] INFO  - === SUITE FINISHED: VOIS Suite ===
+2025-10-30 11:24:59 [main] INFO  - Generating Allure Report...
+2025-10-30 11:25:03 [main] INFO  - Deleting Allure Results Folder...
+2025-10-30 11:25:03 [main] INFO  - Opening Allure Report...
+2025-10-30 11:25:03 [main] INFO  - Allure Report opened successfully
+

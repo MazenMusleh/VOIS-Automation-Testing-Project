@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="VOIS Suite" verbose="1" parallel="none" preserve-order="true">
+
+    <listeners>
+        <listener class-name="Utilization.TestListener"/>
+    </listeners>
+
+    <test name="Tests">
+        <classes>
+            <class name="GUIs.AmazonTests">
+                <methods>
+                    <include name="testScenario1"/>
+                    <include name="testScenario1_DataDriven"/>
+                    <include name="testScenario2"/>
+                </methods>
+            </class>
+            <class name="GUIs.KsrtcTests">
+                <methods>
+                    <include name="testScenario1"/>
+                </methods>
+            </class>
+            <class name="APIs.JsonApiTests"/>
+        </classes>
+    </test>
+</suite>
